@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% load i18n %}
+
+{% block title %}
+	{% trans "Web Firewall" %} - <small>{% trans "Mod security settings" %}</small>
+{% endblock %}
+
+{% block tabs %}
+    <li><a href="/security/">{% trans "List" %}</a></li>
+    <li><a href="#" id="main_tab_1" class="active">{% trans "Main settings" %}</a></li>
+{% endblock %}
+
+{% block content %}
+    <div id="main_content_1" class="main_content">
+        <form method="post" action="." id="security">
+            <table>
+            <tr><th></th><td>
+                <input type="submit" value="{% trans "Save settings" %}"/>
+            </td></tr>
+            {{form}}
+            <tr><th></th><td>
+                <input type="submit" value="{% trans "Save settings" %}"/>
+            </td></tr>
+            </table>
+        </form>
+        </div>
+{% endblock %}

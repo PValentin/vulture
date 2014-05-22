@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/727/trunk/admin/vulture
+END
+modsecurity_generator.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/631/trunk/admin/vulture/modsecurity_generator.html
+END
+group_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/580/trunk/admin/vulture/group_form.html
+END
+logic_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/542/trunk/admin/vulture/logic_form.html
+END
+acl_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/631/trunk/admin/vulture/acl_form.html
+END
+policy_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/648/trunk/admin/vulture/policy_form.html
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/16/trunk/admin/vulture/__init__.py
+END
+userpassword_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/631/trunk/admin/vulture/userpassword_form.html
+END
+cron.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/663/trunk/admin/vulture/cron.py
+END
+otp_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/459/trunk/admin/vulture/otp_form.html
+END
+group_view.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/614/trunk/admin/vulture/group_view.html
+END
+cas_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/631/trunk/admin/vulture/cas_form.html
+END
+pluginheader_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/631/trunk/admin/vulture/pluginheader_form.html
+END
+modsecurity_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/580/trunk/admin/vulture/modsecurity_form.html
+END
+intf_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/398/trunk/admin/vulture/intf_list.html
+END
+ntlm_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/631/trunk/admin/vulture/ntlm_form.html
+END
+template_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/631/trunk/admin/vulture/template_form.html
+END
+kerberos_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/631/trunk/admin/vulture/kerberos_form.html
+END
+storable.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/552/trunk/admin/vulture/storable.py
+END
+exportimport_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/631/trunk/admin/vulture/exportimport_form.html
+END
+jk_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/549/trunk/admin/vulture/jk_list.html
+END
+user_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/631/trunk/admin/vulture/user_form.html
+END
+ldap_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/631/trunk/admin/vulture/ldap_form.html
+END
+log_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/630/trunk/admin/vulture/log_form.html
+END
+generic_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/96/trunk/admin/vulture/generic_list.html
+END
+ifconfig.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/628/trunk/admin/vulture/ifconfig.py
+END
+conf_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/631/trunk/admin/vulture/conf_form.html
+END
+localization_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/631/trunk/admin/vulture/localization_form.html
+END
+generic_confirm_delete.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/75/trunk/admin/vulture/generic_confirm_delete.html
+END
+app_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/640/trunk/admin/vulture/app_list.html
+END
+css_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/631/trunk/admin/vulture/css_form.html
+END
+migrate.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/689/trunk/admin/vulture/migrate.py
+END
+cluster_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/556/trunk/admin/vulture/cluster_list.html
+END
+policy_file_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/604/trunk/admin/vulture/policy_file_form.html
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/669/trunk/admin/vulture/views.py
+END
+plugin_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/631/trunk/admin/vulture/plugin_form.html
+END
+vintf_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/326/trunk/admin/vulture/vintf_list.html
+END
+appearance_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/631/trunk/admin/vulture/appearance_form.html
+END
+sql_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/633/trunk/admin/vulture/sql_form.html
+END
+intf_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/645/trunk/admin/vulture/intf_form.html
+END
+style_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/588/trunk/admin/vulture/style_form.html
+END
+ssl_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/645/trunk/admin/vulture/ssl_form.html
+END
+custom_rule_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/612/trunk/admin/vulture/custom_rule_form.html
+END
+auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/105/trunk/admin/vulture/auth.py
+END
+jk_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/631/trunk/admin/vulture/jk_form.html
+END
+sso_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/706/trunk/admin/vulture/sso_form.html
+END
+memcached.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/725/trunk/admin/vulture/memcached.py
+END
+policy_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/580/trunk/admin/vulture/policy_list.html
+END
+acl_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/259/trunk/admin/vulture/acl_list.html
+END
+otp_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/471/trunk/admin/vulture/otp_list.html
+END
+modsecurity_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/580/trunk/admin/vulture/modsecurity_list.html
+END
+app_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/645/trunk/admin/vulture/app_form.html
+END
+image_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/631/trunk/admin/vulture/image_form.html
+END
+useredit_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/631/trunk/admin/vulture/useredit_form.html
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/720/trunk/admin/vulture/models.py
+END
+plugincas_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/631/trunk/admin/vulture/plugincas_form.html
+END
+user_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/97/trunk/admin/vulture/user_list.html
+END
+vintf_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/631/trunk/admin/vulture/vintf_form.html
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/645/trunk/admin/vulture/forms.py
+END
+radius_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/631/trunk/admin/vulture/radius_form.html
+END
+app_copy.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/640/trunk/admin/vulture/app_copy.html
+END
+plugincontent_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/631/trunk/admin/vulture/plugincontent_form.html
+END
+event_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/641/trunk/admin/vulture/event_list.html
+END

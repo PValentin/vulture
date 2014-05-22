@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/728/trunk/lib/Vulture/Plugin
+END
+Plugin_REWRITE.pm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/541/trunk/lib/Vulture/Plugin/Plugin_REWRITE.pm
+END
+Plugin_LOGOUT_ALL2.pm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/728/trunk/lib/Vulture/Plugin/Plugin_LOGOUT_ALL2.pm
+END
+Plugin_SQLPASS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/633/trunk/lib/Vulture/Plugin/Plugin_SQLPASS.pm
+END
+Plugin_STATIC.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/522/trunk/lib/Vulture/Plugin/Plugin_STATIC.pm
+END
+Plugin_PHP.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/397/trunk/lib/Vulture/Plugin/Plugin_PHP.pm
+END
+Plugin_REDIRECT_IF_REFERER.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/635/trunk/lib/Vulture/Plugin/Plugin_REDIRECT_IF_REFERER.pm
+END
+Plugin_BLOCK.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/397/trunk/lib/Vulture/Plugin/Plugin_BLOCK.pm
+END
+Plugin_SAML.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/397/trunk/lib/Vulture/Plugin/Plugin_SAML.pm
+END
+Plugin_REDIRECT_NO_LOG.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/522/trunk/lib/Vulture/Plugin/Plugin_REDIRECT_NO_LOG.pm
+END
+Plugin_LOGOUT_CAS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/724/trunk/lib/Vulture/Plugin/Plugin_LOGOUT_CAS.pm
+END
+Plugin_LOGOUT_ALL.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/610/trunk/lib/Vulture/Plugin/Plugin_LOGOUT_ALL.pm
+END
+Plugin_OutputFilterHandler.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/662/trunk/lib/Vulture/Plugin/Plugin_OutputFilterHandler.pm
+END
+Plugin_CAS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/724/trunk/lib/Vulture/Plugin/Plugin_CAS.pm
+END
+Plugin_REDIRECT_NO_REFERER.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/471/trunk/lib/Vulture/Plugin/Plugin_REDIRECT_NO_REFERER.pm
+END
+Plugin_HEADER_INPUT.pm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/720/trunk/lib/Vulture/Plugin/Plugin_HEADER_INPUT.pm
+END
+Plugin_LOGOUT.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/602/trunk/lib/Vulture/Plugin/Plugin_LOGOUT.pm
+END
+Plugin_LOGOUT_BROWSER.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/610/trunk/lib/Vulture/Plugin/Plugin_LOGOUT_BROWSER.pm
+END

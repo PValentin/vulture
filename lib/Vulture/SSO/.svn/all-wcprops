@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/726/trunk/lib/Vulture/SSO
+END
+SSO_FORWARD.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/724/trunk/lib/Vulture/SSO/SSO_FORWARD.pm
+END
+ProfileManager.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/625/trunk/lib/Vulture/SSO/ProfileManager.pm
+END
+SSO_LEARNING.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/726/trunk/lib/Vulture/SSO/SSO_LEARNING.pm
+END

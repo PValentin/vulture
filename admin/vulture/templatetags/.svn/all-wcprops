@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/642/trunk/admin/vulture/templatetags
+END
+get_all.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/96/trunk/admin/vulture/templatetags/get_all.py
+END
+split.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/464/trunk/admin/vulture/templatetags/split.py
+END
+replace_logname.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/642/trunk/admin/vulture/templatetags/replace_logname.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/75/trunk/admin/vulture/templatetags/__init__.py
+END
+set_var.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/75/trunk/admin/vulture/templatetags/set_var.py
+END
+getattribute.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/75/trunk/admin/vulture/templatetags/getattribute.py
+END

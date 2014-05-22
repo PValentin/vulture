@@ -1,0 +1,77 @@
+10
+
+dir
+728
+http://vulture.googlecode.com/svn/trunk/lib/Vulture
+http://vulture.googlecode.com/svn
+
+
+
+2014-05-19T09:49:12.517956Z
+728
+jeremie.jourdin@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3bf79e3c-a79d-667f-db61-7bf86d50bc88
+
+Makefile.PL
+file
+
+
+
+
+2014-05-22T09:46:51.245743Z
+8768d740e4a1bddd9df019d9fe585733
+2011-08-18T16:33:26.002500Z
+2
+jeremie.jourdin@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+545
+
+Core
+dir
+
+Plugin
+dir
+
+ACL
+dir
+
+Auth
+dir
+
+SSO
+dir
+

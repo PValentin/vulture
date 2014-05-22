@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/707/trunk/lib/Vulture/Auth
+END
+Auth_EXAMPLE.pm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/522/trunk/lib/Vulture/Auth/Auth_EXAMPLE.pm
+END
+Auth_KERBEROS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/662/trunk/lib/Vulture/Auth/Auth_KERBEROS.pm
+END
+Auth_LOGIC.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/650/trunk/lib/Vulture/Auth/Auth_LOGIC.pm
+END
+Auth_SQL.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/633/trunk/lib/Vulture/Auth/Auth_SQL.pm
+END
+Auth_LDAP.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/555/trunk/lib/Vulture/Auth/Auth_LDAP.pm
+END
+Auth_SSL.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/524/trunk/lib/Vulture/Auth/Auth_SSL.pm
+END
+Auth_OTP.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/707/trunk/lib/Vulture/Auth/Auth_OTP.pm
+END
+Auth_CAS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/610/trunk/lib/Vulture/Auth/Auth_CAS.pm
+END
+Auth_RADIUS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/555/trunk/lib/Vulture/Auth/Auth_RADIUS.pm
+END
+Auth_NTLM.pm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/667/trunk/lib/Vulture/Auth/Auth_NTLM.pm
+END

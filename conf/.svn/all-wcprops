@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/690/trunk/conf
+END
+vintf_startup.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/690/trunk/conf/vintf_startup.py
+END
+openssl.cnf
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/conf/openssl.cnf
+END
+mime.types
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/75/trunk/conf/mime.types
+END

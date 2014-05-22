@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/719/trunk/debian
+END
+vulture.preinst
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/715/trunk/debian/vulture.preinst
+END
+vulture.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/debian/vulture.postrm
+END
+vulture-gui.init
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/684/trunk/debian/vulture-gui.init
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/65/trunk/debian/rules
+END
+vulture.prerm
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/713/trunk/debian/vulture.prerm
+END
+vintf_startup.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/690/trunk/debian/vintf_startup.py
+END
+dirs
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/debian/dirs
+END
+vulture-intf.init
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/684/trunk/debian/vulture-intf.init
+END
+aes-encrypt-key.key
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/16/trunk/debian/aes-encrypt-key.key
+END
+httpd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/509/trunk/debian/httpd.conf
+END
+vulture.init
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/684/trunk/debian/vulture.init
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/debian/copyright
+END
+vulture.wsgi
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/695/trunk/debian/vulture.wsgi
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/678/trunk/debian/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/debian/compat
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/673/trunk/debian/changelog
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/719/trunk/debian/settings.py
+END
+vulture.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/713/trunk/debian/vulture.postinst
+END
+docs
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/debian/docs
+END

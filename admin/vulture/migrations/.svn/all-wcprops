@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/669/trunk/admin/vulture/migrations
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/669/trunk/admin/vulture/migrations/__init__.py
+END
+changes_2_0_8.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/669/trunk/admin/vulture/migrations/changes_2_0_8.py
+END

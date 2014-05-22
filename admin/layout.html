@@ -1,0 +1,36 @@
+{% load i18n %}<!DOCTYPE html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Vulture 2</title>
+    <link rel="stylesheet" href="/vulture.css" type="text/css" title="Vulture 2" />
+    <script src="/js/jquery/jquery-1.11.0.min.js" type="text/javascript"></script>
+    <script src="/js/tab.js" type="text/javascript"></script>
+</head>
+
+<body>
+    <div id='menu_box' class='menu_box'>
+        <div class='menu_area'>   
+            {% block menu %}{% endblock %}
+        </div>
+    </div>
+
+    <div id='action'>
+        {% block auth %}{% endblock %}
+        <br />
+        {% block action %}{% endblock %}
+    </div>
+
+    <div id='main_box' class='main_box'>
+        <div class='main_area'>
+            {% block main %}{% endblock %}
+        </div>
+    </div>
+
+<!--<div id='bottom'>
+    <div id='footer'>{% block footer %}{% endblock %}</div>
+    <div id='copyright'>{% block copyright %}{% endblock %}</div>
+</div>-->
+</body>
+</html>
+
+

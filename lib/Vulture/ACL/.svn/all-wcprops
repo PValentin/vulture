@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/397/trunk/lib/Vulture/ACL
+END
+ACL_EXAMPLE.pm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/397/trunk/lib/Vulture/ACL/ACL_EXAMPLE.pm
+END
+ACL_SQL.pm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/397/trunk/lib/Vulture/ACL/ACL_SQL.pm
+END
+ACL_LDAP.pm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/397/trunk/lib/Vulture/ACL/ACL_LDAP.pm
+END

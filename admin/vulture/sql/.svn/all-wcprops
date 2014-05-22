@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/727/trunk/admin/vulture/sql
+END
+auth.sql
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/16/trunk/admin/vulture/sql/auth.sql
+END
+log.sql
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/723/trunk/admin/vulture/sql/log.sql
+END
+sso.sql
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/662/trunk/admin/vulture/sql/sso.sql
+END
+conf.sql
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/692/trunk/admin/vulture/sql/conf.sql
+END
+localization.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/521/trunk/admin/vulture/sql/localization.sql
+END
+css.sql
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/524/trunk/admin/vulture/sql/css.sql
+END
+adminstyle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/640/trunk/admin/vulture/sql/adminstyle.sql
+END
+template.sql
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/727/trunk/admin/vulture/sql/template.sql
+END
+mapuri.sql
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/16/trunk/admin/vulture/sql/mapuri.sql
+END
+plugin.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/521/trunk/admin/vulture/sql/plugin.sql
+END
+sql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/666/trunk/admin/vulture/sql/sql.sql
+END
+appearance.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/726/trunk/admin/vulture/sql/appearance.sql
+END
